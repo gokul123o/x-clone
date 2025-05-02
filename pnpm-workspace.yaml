@@ -1,0 +1,11 @@
+ignoredBuiltDependencies:
+  - '@prisma/client'
+  - '@prisma/engines'
+  - ejs
+  - esbuild
+  - highlight.js
+  - prisma
+  - sharp
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - unrs-resolver
